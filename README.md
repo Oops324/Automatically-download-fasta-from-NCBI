@@ -1,1 +1,1 @@
-# Download-fasta from NCBI
+# Automatically download fasta from NCBI
