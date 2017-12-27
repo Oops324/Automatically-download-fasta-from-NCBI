@@ -1,1 +1,1 @@
-# Download-Genbank-and-convert-to-fasta
+# Download-fasta from NCBI
